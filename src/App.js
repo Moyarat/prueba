@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Despues de 10 minutos al fin xd <code>xd</code> Aprendele mas
+          Nms pinshi curso desactualizado dx <code>xd</code> Aprendele mas
         </p>
         <a
           className="App-link"
